@@ -1,6 +1,6 @@
-# wmrc
+# cgwm
 
-A simple WM powered by wmutils, comprised of pure POSIX-compliant shell scripts.
+A simple WM powered by wmutils, comprised of pure POSIX-compliant shell scripts, made for catgirls, by a catgirl. 
 
 ## Appearance
 
